@@ -4,7 +4,7 @@
 
 각 레포지토리에서 프로그래밍 언어 별 샘플을 확인할 수 있습니다.
 
-- [`/promotion-api`](https://docs.tosspayments.com/reference#카드-혜택-조회): 카드 혜택 조회정산조회 API 연동 샘플
+- [`/promotion-api`](https://github.com/tosspayments/promotion-samples/tree/main/promotion-api): 카드 혜택 조회정산조회 API 연동 샘플
 
 ## 문의
 
